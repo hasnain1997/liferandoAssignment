@@ -1,0 +1,15 @@
+node_modules
+cypress.json
+.vscode/settings.json
+cypress/videos/
+cypress/reports/
+cypress/screenshots/
+reporterConfig.json
+.idea/
+cypress/downloads/
+.DS_Store
+cypress/.DS_Store.DS_Store
+cypress/report
+myreport.json
+public
+index.json
